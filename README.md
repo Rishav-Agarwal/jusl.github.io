@@ -1,5 +1,5 @@
 # Educational website.
 
-visit: http://jufet.github.io
+visit: http://jusl.github.io
 
 Go to: Dowloads -> 4th Sem -> IT -> OOS 
